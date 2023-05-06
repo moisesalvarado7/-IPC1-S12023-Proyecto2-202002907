@@ -1,1 +1,4 @@
-# -IPC1-S12023-Proyecto2-202002907
+# Moisés Iván Daniel Alvarado García
+# Carne: 202002907
+# Introducción a la programación de computadoras 1
+# Sección E
